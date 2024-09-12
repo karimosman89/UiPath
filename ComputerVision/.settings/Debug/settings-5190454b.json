@@ -1,0 +1,10 @@
+{
+  "UiPath.CV.Activities.GenericCV.DelayBeforeMS": "300",
+  "UiPath.CV.Activities.GenericCV.DelayAfterMS": "0",
+  "UiPath.CV.Activities.GenericCV.TimeoutMS": "30000",
+  "UiPath.CV.Activities.GenericCV.DelayBetweenKeys": "100",
+  "UiPath.CV.Activities.CvScope.CVMethod": "ElementDetection|OCR",
+  "UiPath.CV.Activities.CvScope.Server": "https://cv.uipath.com",
+  "UiPath.CV.Activities.CvScope.ApiKey": "rhLPL5cD+6A/ZBtcyQV4t4IpV1D8BXUwlH1/KmIPzsJPo6s4Mxx6N3AEdNJdOR29EmHJN4xFCa79zOuzNWMJxQ==",
+  "UiPath.CV.Activities.CvScope.UseLocalServer": "False"
+}
